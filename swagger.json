@@ -1,0 +1,17 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Recipe API",
+    "version": "1.0.0",
+    "description": "A simple Express Recipe API"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000",
+      "description": "My API Documentation"
+    }
+  ],
+  "paths": {},
+  "components": {},
+  "tags": []
+}
